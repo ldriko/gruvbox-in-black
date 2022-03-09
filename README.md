@@ -1,13 +1,8 @@
-# README
-## This is the README for your extension "aldrico-s-gruvbox"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Personal Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Black with gruvbox material theme's color scheme. Dank.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+For fellow black enjoyer
 
-**Enjoy!**
+![Sample](https://github.com/ldriko/aldrico-s-gruvbox/blob/main/images/sample1.png?raw=true)
+![Sample2](https://github.com/ldriko/aldrico-s-gruvbox/blob/main/images/sample2.png?raw=true)

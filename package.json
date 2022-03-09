@@ -12,15 +12,37 @@
     "engines": {
         "vscode": "^1.65.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ldriko/aldrico-s-gruvbox"
+    },
+    "bugs": {
+        "url": "https://github.com/ldriko/aldrico-s-gruvbox/issues"
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "icon": "images/icon.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "gruvbox",
+        "gruvbox theme",
+        "gruvbox material",
+        "material",
+        "black",
+        "black theme",
+        "dark theme",
+        "theme"
     ],
     "contributes": {
         "themes": [
             {
                 "label": "Aldrico's Gruvbox",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Aldrico's Gruvbox-color-theme.json"
+                "path": "./themes/aldrico-s-gruvbox-color-theme.json"
             }
         ]
     }
