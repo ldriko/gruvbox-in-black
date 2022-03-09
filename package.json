@@ -1,0 +1,27 @@
+{
+    "name": "aldrico-s-gruvbox",
+    "displayName": "Aldrico's Gruvbox",
+    "description": "Black with gruvbox's color scheme. Danker.",
+    "publisher": "Heaven Aldrico",
+    "author": {
+        "name": "Heaven Aldrico",
+        "email": "4d3.h34v3n@gmail.com",
+        "url": "https://aldrico.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aldrico's Gruvbox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aldrico's Gruvbox-color-theme.json"
+            }
+        ]
+    }
+}
