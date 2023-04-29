@@ -1,6 +1,6 @@
 {
     "name": "aldrico-s-gruvbox",
-    "displayName": "Aldrico's Gruvbox",
+    "displayName": "Gruvbox in Black",
     "description": "Black with gruvbox's color scheme. Danker.",
     "publisher": "Heaven Aldrico",
     "author": {
@@ -40,9 +40,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aldrico's Gruvbox",
+                "label": "Gruvbox in Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/aldrico-s-gruvbox-color-theme.json"
+            },
+            {
+                "label": "Gruvbox in Black Bordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/aldrico-s-gruvbox-color-bordered-theme.json"
             }
         ]
     }

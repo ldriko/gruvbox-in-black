@@ -1,6 +1,8 @@
-# Personal Theme
+## Personal Theme
 
-Black with gruvbox material theme's color scheme. Dank.
+---
+
+Gruvbox material color scheme in Black. Dank. Now with bordered version. Danker
 
 For fellow black enjoyer
 
