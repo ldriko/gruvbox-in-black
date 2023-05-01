@@ -1,5 +1,5 @@
 {
-    "name": "aldrico-s-gruvbox",
+    "name": "gruvbox-in-black",
     "displayName": "Gruvbox in Black",
     "description": "Black with gruvbox's color scheme. Danker.",
     "publisher": "HeavenAldrico",
@@ -8,16 +8,16 @@
         "email": "4d3.h34v3n@gmail.com",
         "url": "https://aldrico.com"
     },
-    "version": "0.2.0",
+    "version": "0.2.1",
     "engines": {
         "vscode": "^1.65.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ldriko/aldrico-s-gruvbox"
+        "url": "https://github.com/ldriko/gruvbox-in-black"
     },
     "bugs": {
-        "url": "https://github.com/ldriko/aldrico-s-gruvbox/issues"
+        "url": "https://github.com/ldriko/gruvbox-in-black/issues"
     },
     "galleryBanner": {
         "color": "#000000",
